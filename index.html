@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Custom Counter and Timer</title>
+    <link href="assets/CSS/style.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet" />
+</head>
+
+<body>
+    <div class="container">
+        <h1>Counter and Countdown</h1>
+
+        <div class="box">
+            <h2>Counter</h2>
+            <div class="count-display" id="countOutput">0</div>
+            <div class="controls">
+                <button id="addBtn">Increase</button>
+                <button id="subtractBtn">Decrease</button>
+                <button id="clearBtn">Clear</button>
+            </div>
+        </div>
+
+        <div class="box">
+            <h2>Countdown</h2>
+            <div class="timer-display" id="timerOutput">00:00:10</div>
+            <input type="number" class="input-box" id="setTimeInput" min="1" placeholder="Time in secs" />
+            <div class="controls">
+                <button id="startTimerBtn">Start</button>
+                <button id="pauseTimerBtn">Pause</button>
+                <button id="resetTimerBtn">Reset</button>
+            </div>
+        </div>
+    </div>
+
+    <div id="alertModal" class="popup">
+        <div class="popup-content">
+            <h2>Countdown Ended</h2>
+            <button id="closePopupBtn">Close</button>
+        </div>
+    </div>
+
+    <script src="assets/JS/script.js"></script>
+</body>
+
+</html>
