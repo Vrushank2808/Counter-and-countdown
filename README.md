@@ -28,14 +28,10 @@ JavaScript: Logic for counter and countdown functionality.
 ⚙️ Setup & Installation
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/counter-countdown-app.git
+```git clone https://github.com/Vrushank2808/Counter-and-countdown.git```
 Navigate to the project directory:
 
-bash
-Copy code
-cd counter-countdown-app
+```cd counter-countdown-app```
 Open the project:
 
 Simply open the index.html file in any web browser.
@@ -61,15 +57,13 @@ You can easily customize:
 Default countdown value: Update the initial countdown duration in the JavaScript.
 Styling: Modify the colors, buttons, or layout in styles.css to fit your own style.
 📂 Project Structure
-bash
-Copy code
-├── index.html            # Main HTML file
-├── assets/               # Folder for assets like styles and scripts
-│   ├── css/
-│   │   └── styles.css    # CSS styles
-│   └── js/
-│       └── script.js     # JavaScript functionality
-└── README.md             # You are here!
+```├── index.html            # Main HTML file```
+```├── assets/               # Folder for assets like styles and scripts```
+```│   ├── css/```
+```│   │   └── styles.css    # CSS styles```
+```│   └── js/```
+```│       └── script.js     # JavaScript functionality```
+```└── README.md             # You are here!```
 Explanation:
 index.html: The main file that links everything together.
 assets/css/styles.css: The file that contains the styling rules for your project.
