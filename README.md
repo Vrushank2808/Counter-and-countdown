@@ -24,11 +24,10 @@ You can try out the application by visiting the [live demo](https://vrushank2808
 
 Below is a screenshot of the app interface:
 
-![Counter and Countdown App Screenshot](./path_to_your_image/Screenshot.png)
+![Screenshot 2024-09-25 175800](https://github.com/user-attachments/assets/b1de18b4-6d3f-46b2-b21b-689823c3c8e5)
 
-*(Make sure to replace `path_to_your_image` with the actual path to the image in your project directory)*
 
-![App Interface](./Screenshot.png)
+![Screenshot 2024-09-25 175721](https://github.com/user-attachments/assets/b7a620d7-c430-46e1-b530-e90e90b022ae)
 
 ## How to Use
 
