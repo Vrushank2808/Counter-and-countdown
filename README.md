@@ -1,5 +1,3 @@
-Here is a sample `README.md` file for the repository you shared, incorporating the image you uploaded. You can adjust the details as needed for your project.
-
 ---
 
 # Counter and Countdown App
@@ -25,8 +23,6 @@ You can try out the application by visiting the [live demo](https://vrushank2808
 Below is a screenshot of the app interface:
 
 ![Screenshot 2024-09-25 175800](https://github.com/user-attachments/assets/b1de18b4-6d3f-46b2-b21b-689823c3c8e5)
-
-
 ![Screenshot 2024-09-25 175721](https://github.com/user-attachments/assets/b7a620d7-c430-46e1-b530-e90e90b022ae)
 
 ## How to Use
@@ -75,4 +71,3 @@ If you would like to contribute to this project, feel free to fork the repositor
 
 ---
 
-This `README.md` file will help users understand the purpose of the project and guide them through using the application. Make sure to upload the screenshot image to your repository and replace the placeholder paths with the correct image path.
